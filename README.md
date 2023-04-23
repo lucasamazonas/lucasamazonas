@@ -8,9 +8,11 @@
 
 #
 
+## Contatos
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amazonas-538042186/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lucasamazonas) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasamazonas/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasamazonas&show_icons=true&theme=gruvbox)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasamazonas&show_icons=true&theme=gruvbox)-->
 
 
 ## Linguagens
