@@ -6,8 +6,6 @@
      📝 Sou um programador formado em <strong>Ciência da Computação</strong>, com experiência profunda em PHP, Laravel, Javascript e Vue.js. Desde 2014, tenho estudado programação e comecei a trabalhar na área em 2016. Meu objetivo é construir aplicações web funcionais, esteticamente agradáveis e com o melhor design para o domínio. Quando não estou programando, gosto de ler livros e acompanhar notícias do mundo de tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios no GitHub e entrar em contato comigo se precisar de ajuda ou quiser colaborar em um projeto.
 </p>
 
-#
-
 ## Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amazonas-538042186/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lucasamazonas) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasamazonas/)
