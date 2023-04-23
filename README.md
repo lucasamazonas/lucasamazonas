@@ -3,7 +3,7 @@
 
 
 <p style="text-align: justify">
-     📝 Sou um programador formado em <strong>Ciência da Computação</strong>, com experiência profunda em PHP, Laravel, Javascript e Vue.js. Desde 2014, tenho estudado programação e comecei a trabalhar na área em 2016. Meu objetivo é construir aplicações web funcionais, esteticamente agradáveis e com o melhor desing para o domínio. Quando não estou programando, gosto de ler livros e acompahar notícias do mundo de tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios no GitHub e entrar em contato comigo se precisar de ajuda ou quiser colaborar em um projeto.
+     📝 Sou um programador formado em <strong>Ciência da Computação</strong>, com experiência profunda em PHP, Laravel, Javascript e Vue.js. Desde 2014, tenho estudado programação e comecei a trabalhar na área em 2016. Meu objetivo é construir aplicações web funcionais, esteticamente agradáveis e com o melhor design para o domínio. Quando não estou programando, gosto de ler livros e acompanhar notícias do mundo de tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios no GitHub e entrar em contato comigo se precisar de ajuda ou quiser colaborar em um projeto.
 </p>
 
 #
